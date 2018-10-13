@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="app_name">Jenis-jenis Burung</string>
+
+  <string name="burung_ipsum">Aves adalah kelas dari Filum Chordata dengan ciri pokok memiliki bulu yang berfungsi untuk terbang, menjaga suhu tubuh, menarik pasangan, dan perlindungan bagi tubuhnya. Klasifikasi aves lengkap sebelumnya ada 27 ordo pada aves. Saat ini jumlah ordo pada aves ada 40 ordo berdasarkan Catalogue of Life yang terbaru. Namun dalam artikel ini akan diuraikan 30 macam ordo saja yang membahas klasifikasi aves dan penjelasannya mulai dari takson ordo.</string>
+  <string name="checkin">Checkin</string>
+
+  <!--<string name="menu_night_mode">Night mode</string>-->
+  <!--<string name="menu_night_mode_system">Follow system</string>-->
+  <!--<string name="menu_night_mode_day">Day (always)</string>-->
+  <!--<string name="menu_night_mode_night">Night (always)</string>-->
+  <!--<string name="menu_night_mode_auto">Auto</string>-->
+
+</resources>
